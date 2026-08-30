@@ -7,7 +7,11 @@ This project was created to demonstrate how Python can be used to validate passw
 
 The program checks the password against four criteria:
 
-Minimum length of 8 characters
-At least one digit
-At least one uppercase letter
-At least one special character Each requirement contributes to the password's strength score.
+. Minimum length of 8 characters
+
+. At least one digit
+
+. At least one uppercase letter
+
+. At least one special character Each requirement contributes to the password's strength score.
+
