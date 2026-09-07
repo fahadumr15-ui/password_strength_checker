@@ -24,3 +24,9 @@ This project was developed as part of my **Cybersecurity Internship at DecodLab*
 * **Language:** Python 3.x
 * **Topic:** Password Security / Authentication & Access Control
 * **Environment:** Linux / WSL / Windows
+## 🚀 Usage
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/YOUR_USERNAME/password-strength-checker.git](https://github.com/YOUR_USERNAME/password-strength-checker.git)
+   cd password-strength-checker
