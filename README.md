@@ -1,17 +1,26 @@
-# Password Strength Checker
-DecodeLabs Internship — Project 1 (Defensive Track)
+# 🛡️ Password Strength Checker (Python)
 
-A Python command-line tool that evaluates whether a password is Weak, Medium, or Strong, and explains exactly what's missing.
-# Project Overview
-This project was created to demonstrate how Python can be used to validate password requirements and classify a password as Weak, Medium, or Strong.
+A Python application designed to evaluate password complexity and determine its security level. 
 
-The program checks the password against four criteria:
+This project was developed as part of my **Cybersecurity Internship at DecodLab** to demonstrate fundamental password security concepts, string analysis, and rule-based validation.
 
-. Minimum length of 8 characters
+---
 
-. At least one digit
+## ✨ Features
+* **Length Validation:** Checks if the password meets recommended minimum length criteria.
+* **Character Variety Analysis:** Verifies the presence of uppercase letters, lowercase letters, numbers, and special symbols (`!@#$%^&*`).
+* **Strength Rating:** Categorizes passwords into **Weak**, **Medium**, or **Strong** based on complexity criteria.
+* **Actionable Feedback:** Informs users on specific missing criteria to help them construct stronger passwords.
 
-. At least one uppercase letter
+---
 
-. At least one special character Each requirement contributes to the password's strength score.
+## 🔐 Security Concepts Covered
+* **Password Complexity & Entropy:** Understanding why multi-character sets increase resistance to brute-force attacks.
+* **Rule-Based Input Validation:** Implementing security logic to verify password constraints before acceptance.
 
+---
+
+## 🧰 Tech Stack
+* **Language:** Python 3.x
+* **Topic:** Password Security / Authentication & Access Control
+* **Environment:** Linux / WSL / Windows
