@@ -28,5 +28,5 @@ This project was developed as part of my **Cybersecurity Internship at DecodLab*
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/password-strength-checker.git](https://github.com/YOUR_USERNAME/password-strength-checker.git)
+   git clone [https://github.com/YOUR_USERNAME/password-strength-checker.git](https://github.com/fahadumr15-ui/password-strength-checker.git)
    cd password-strength-checker
